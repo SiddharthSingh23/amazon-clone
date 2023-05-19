@@ -1,0 +1,19 @@
+# dependencies
+/frontend/node_modules
+/frontend/package-lock.json
+
+/backend/node_modules
+/backend/package-lock.json
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.env
+/backend/.env
+
+# debug
+/frontend/npm-debug.log*
